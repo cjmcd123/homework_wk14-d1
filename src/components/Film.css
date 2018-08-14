@@ -1,0 +1,32 @@
+.film{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow-x: auto;
+  margin: 25px;
+}
+
+.film-text{
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow-x: auto;
+}
+
+.film-title{
+  margin: 10px;
+}
+
+.film-rating{
+  margin: 10px;
+}
+
+a{
+  margin: 10px;
+}
+
+img{
+  max-width: 300px;
+  max-height: 200px;
+}
